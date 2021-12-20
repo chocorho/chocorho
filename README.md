@@ -2,7 +2,7 @@
 
 ## Programming Language Experience
 
-- Languages I Use Regularly
+- Languages I Use Regularly  
     ![C89/99](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Java 8,11](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -13,7 +13,7 @@
     - ASM (Reading x86, x86_64, MIPS)
     - OCaml
     - Prolog
-- Languages I'm Learning
+- Languages I'm Learning  
     ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
     ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)<sup>[(My Perl Demos)](https://github.com/chocorho/perl-practice)</sup>
