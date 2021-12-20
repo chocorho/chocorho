@@ -9,7 +9,7 @@
     ![Python3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![C++11](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)[(My C++ Demos)](https://github.com/chocorho/cplusplus-demos)
-- Languages I've Used but Not in a While
+- Languages I Used Years Ago
     - ASM (Reading x86, x86_64, MIPS)
     - OCaml
     - Prolog
