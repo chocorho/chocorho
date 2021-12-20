@@ -1,4 +1,4 @@
-### Hello / 안녕하세요
+### Hello / 안녕하세요 👋
 
 ## Programming Language Experience
 
