@@ -8,7 +8,7 @@
     ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     ![Python3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![C++11](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)[(My C++ Demos)](https://github.com/chocorho/cplusplus-demos)
+    ![C++11](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<sup>[(My C++ Demos)](https://github.com/chocorho/cplusplus-demos)</sup>
 - Languages I Used Years Ago
     - ASM (Reading x86, x86_64, MIPS)
     - OCaml
@@ -16,7 +16,7 @@
 - Languages I'm Learning  
     ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-    ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)[(My Perl Demos)](https://github.com/chocorho/perl-practice)
+    ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)<sup>[(My Perl Demos)](https://github.com/chocorho/perl-practice)</sup>
 
 ## Projects
 
