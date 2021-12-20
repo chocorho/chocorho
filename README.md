@@ -20,12 +20,12 @@
 
 ## Projects
 
-[X] Open-source game engines (see pins)
-[X] <a href="https://www.themathjester.com">Apache server</a>
-[X] Gemini server (gemini://themathjester.com)
-[ ] Custom software license
-[ ] Finances CSV Parser
-[ ] Customizable Facebook RSS Feed
+    [X] Open-source game engines (see pins)  
+    [X] <a href="https://www.themathjester.com">Apache server</a>  
+    [X] Gemini server (gemini://themathjester.com)  
+    [ ] Custom software license  
+    [ ] Finances CSV Parser  
+    [ ] Customizable Facebook RSS Feed
 
 ## Interests
 
