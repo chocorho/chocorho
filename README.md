@@ -18,7 +18,7 @@
     ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
     ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)<sup>[(My Perl Demos)](https://github.com/chocorho/perl-practice)</sup>
 
-## Projects
+## Project Ideas
 
 - [X] Open-source game engines (see pins)  
 - [X] <a href="https://www.themathjester.com">Apache server</a>  
@@ -26,6 +26,7 @@
 - [ ] Custom software license  
 - [ ] Finances CSV Parser  
 - [ ] Customizable Facebook RSS Feed
+- [ ] Libraries to make [AoC challenges](https://adventofcode.com/) quicker to solve
 
 ## Interests
 
