@@ -20,7 +20,7 @@
 
 ## Project Ideas
 
-- [X] Open-source game engines (see pins)  
+- [X] Grand-strategy game engine (see pins)  
 - [X] <a href="https://www.themathjester.com">Apache server</a>  
 - [X] Gemini server (gemini://themathjester.com)  
 - [ ] Finances CSV Parser  
