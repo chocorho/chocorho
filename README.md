@@ -23,9 +23,9 @@
 - [X] Grand-strategy game engine (see pins)  
 - [X] <a href="https://www.themathjester.com">Apache server</a>  
 - [X] Gemini server (gemini://themathjester.com)  
-- [ ] Finances CSV Parser  
+- [X] Finances CSV Parser  
 - [ ] Customizable Facebook RSS Feed
-- [ ] Libraries to make [AoC challenges](https://adventofcode.com/) quicker to solve
+- [ ] Libraries to make [AoC](https://adventofcode.com/) challenges quicker to solve and [visualize](https://github.com/chocorho/aoc_visuals)
 
 ## Interests
 
