@@ -21,7 +21,13 @@
 ## Project Ideas
 
 - [X] Grand-strategy game engine (see pins)  
-- [X] <a href="https://www.themathjester.com">Apache server</a>  
+- [X] Apache server  
+  - [X] <a href="https://www.themathjester.com/goap-game/index.php">GOAP Game</a>  
+  - [ ] GPG Game (in progress)  
+  - [X] RSA Encryption in PHP  
+  - [ ] Kyber Encryption in PHP  
+    - [ ] Research & Lessons (<a href="https://www.themathjester.com/test_kyber_encryption_rollback.php">in progress</a>)  
+    - [ ] Keccak Spinoff Game (<a href="https://www.themathjester.com/test_keccak.php">in progress</a>)  
 - [X] Gemini server (gemini://themathjester.com)  
 - [ ] Finances CSV Parser  
 - [ ] Customizable Facebook RSS Feed
