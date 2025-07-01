@@ -18,20 +18,23 @@
     ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
     ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)<sup>[(My Perl Demos)](https://github.com/chocorho/perl-practice)</sup>
 
-## Project Ideas
+## Project List
 
-- [X] Grand-strategy game engine (see pins)  
+- [X] Game engines using SDL  
 - [X] Apache server  
   - [X] <a href="https://www.themathjester.com/goap-game/index.php">GOAP Game</a>  
   - [ ] GPG Game (in progress)  
   - [X] RSA Encryption in PHP  
   - [ ] Kyber Encryption in PHP  
-    - [ ] Research & Lessons (<a href="https://www.themathjester.com/test_kyber_encryption_rollback.php">in progress</a>)  
+    - [ ] Research and lesson-writing (<a href="https://www.themathjester.com/test_kyber_encryption_rollback.php">in progress</a>)  
     - [ ] Keccak Spinoff Game (<a href="https://www.themathjester.com/test_keccak.php">in progress</a>)  
 - [X] Gemini server (gemini://themathjester.com)  
-- [ ] Finances CSV Parser  
-- [ ] Customizable Facebook RSS Feed
+- [X] Finances CSV Parser  
+- [ ] Auditory (TTS) Text Editor  
+- [ ] Customizable Facebook RSS Feed  
 - [ ] Libraries to make [AoC challenges](https://adventofcode.com/) quicker to solve
+
+Note: most, though not all, of these projects are proprietary. In order to collaborate or view my source code, you may first need to <a href="https://github.com/chocorho/speak-to-me-license">Speak To Me</a>.
 
 ## Interests
 
